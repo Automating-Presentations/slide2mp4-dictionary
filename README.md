@@ -6,5 +6,5 @@ Please note that if the word and pronounciation in your lexicon file contain spa
 ```
 git clone https://github.com/h-kojima/slide2mp4
 chmod u+x slide2mp4/tools/*
-./slide2mp4/tools/lexicon2dic.sh YOUR_LEXICON_FILE slide2mp4-dic-jp.txt
+./slide2mp4/tools/lexicon2dic.sh YOUR_LEXICON_FILE slide2mp4-dic-XX.txt
 ```

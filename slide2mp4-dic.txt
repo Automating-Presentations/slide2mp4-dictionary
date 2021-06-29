@@ -1,9 +1,4 @@
 # word	pronunciation
-#RHEL10	レルテン
-#RHEL6	レルシックス
-#RHEL7	レルセブン
-#RHEL8	レルエイト
-#RHEL9	レルナイン
 3Scale	スリースケール
 ABI	エービーアイ
 ACL	エーシーエル
@@ -102,6 +97,11 @@ RBAC	アールバック
 REST	レスト
 RHDM	アールエッチディーエム
 RHEL	レル
+RHEL10	レルテン
+RHEL6	レルシックス
+RHEL7	レルセブン
+RHEL8	レルエイト
+RHEL9	レルナイン
 RHUA	ルア
 RHUI	ルイ
 ROI	アールオーアイ

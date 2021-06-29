@@ -63,7 +63,6 @@ JBoss	ジェイボス
 JDK	ジェイディーケー
 JVM	ジェーブイエム
 Java	ジャバ
-Jboss	ジェイボス
 Journey	ジャーニー
 Keepalived	キープアライブド
 Keycloak	キークローク
@@ -95,7 +94,6 @@ OracleJDK	オラクルジェイディーケー
 Outposts	アウトポスツ
 PaaS	パーズ
 Platform	プラットフォーム
-Platoform	プラットフォーム
 PoC	ピーオーシー
 Process	プロセス
 QE	キューイー

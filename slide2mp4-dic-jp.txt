@@ -1,4 +1,6 @@
 # word	pronunciation
+1.0	イッテンゼロ
+2.0	ニーテンゼロ
 3Scale	スリースケール
 3rd	サード
 ABI	エービーアイ

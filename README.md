@@ -3,7 +3,7 @@ Dictionary text files for [slide2mp4](https://github.com/automating-presentation
 
 A dictionary file for slide2mp4 is a text file containing words and pronunciations, and the words and pronunciations must be separated by tabs or spaces. In a dictionary file, lines starting with "#" are recognized as comments.  
 
-You can create a lexicon file automatically by using slide2mp4-dic-XX.txt.
+You can create a lexicon file automatically by using slide2mp4-dic-XX.txt. In order to make each word of this slide2mp4-dic-XX.txt unique, words and pronunciations are separated by a single tab.
 
 ```
 git clone https://github.com/automating-presentations/slide2mp4

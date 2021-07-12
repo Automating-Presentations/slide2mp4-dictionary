@@ -18,6 +18,7 @@ Apache	アパッチェ
 Application	アプリケーション
 Automation	オートメーション
 BYOS	ビーワイオーエス
+Bare	ベア
 Bookinfo	ブックインフォ
 Bucket	バケット
 Bugzilla	バグジラ
@@ -83,10 +84,12 @@ Maistra	マイストラ
 Manager	マネージャー
 Mode	モード
 Monitoring	モニタリング
+NFS	エヌエフエス
 Netscape	ネットスケープ
 NewRelic	ニューレリック
 Node.js	ノード・ジェイエス
 OCP	オーシーピー
+OCS	オーシーエス
 ODF	オーディーエフ
 OKE	オーケーイー
 OS	オーエス
@@ -188,6 +191,7 @@ hotfix	ホットフィックス
 keepalived	キープアライブド
 keycloak	キークローク
 kubernetes	クバネティス
+metal	メタル
 nginx	エンジンエックス
 openshift	オープンシフト
 openstack	オープンスタック

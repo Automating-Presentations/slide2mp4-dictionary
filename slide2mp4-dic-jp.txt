@@ -1,8 +1,10 @@
 # word	pronunciation
 1.0	イッテンゼロ
+1日	イチニチ
 2.0	ニーテンゼロ
 3Scale	スリースケール
 3rd	サード
+AAJ	エーエージェイ
 ABI	エービーアイ
 ACL	エーシーエル
 AGL	エージーエル
@@ -12,6 +14,7 @@ AMQ	エーエムキュー
 API	エーピーアイ
 AUS	エーユーエス
 Access	アクセス
+Adoption	アダプション
 Analysis	アナリシス
 Ansible	アンシブル
 Apache	アパッチェ
@@ -28,6 +31,7 @@ CVE	シーブイイー
 Cause	コーズ
 CentOS	セントオーエス
 Ceph	セフ
+CoE	シーオーイー
 CodeReady	コードレディ
 Container	コンテナ
 CoreOS	コアオーエス
@@ -39,6 +43,7 @@ Dashboard	ダッシュボード
 Data	データ
 DataDog	データドック
 DataGrid	データグリッド
+Day	デイ
 Decision	デシジョン
 DevOps	デブオプス
 DevSecOps	デブセックオプス
@@ -144,6 +149,7 @@ S/4	エスフォー
 SAP	エスエーピー
 SDS	エスディーエス
 SELinux	エスイーリナックス
+SI	エスアイ
 SIer	エスアイアー
 SLA	エスエルエー
 SMTP	エスエムティーピー
@@ -212,6 +218,8 @@ vSphere	ブイスフィア
 virtualization	バーチャライゼーション
 x86_64	エックスハチロクロクヨン
 得る	える
+一人	ひとり
+赤色	あかいろ
 立役者	たてやくしゃ
 ドライブ間	ドライブカン
 お使いの方	おつかいのかた

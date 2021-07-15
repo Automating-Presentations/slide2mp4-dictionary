@@ -10,6 +10,7 @@ ACL	エーシーエル
 AGL	エージーエル
 AI/ML	エーアイエムエル
 AIOps	エーアイオプス
+AKS	エーケーエス
 AMQ	エーエムキュー
 API	エーピーアイ
 AUS	エーユーエス
@@ -27,6 +28,8 @@ Bucket	バケット
 Bugzilla	バグジラ
 Business	ビジネス
 CEP	セップ
+CI/CD	シーアイシーディ
+CNI	シーエヌアイ
 CVE	シーブイイー
 Cause	コーズ
 CentOS	セントオーエス
@@ -46,13 +49,16 @@ DataGrid	データグリッド
 Day	デイ
 Decision	デシジョン
 DevOps	デブオプス
+DevSecOps	デブセクオプス
 DevSecOps	デブセックオプス
 Devfile	デブファイル
+Docker	ドッカー
 Dockerfile	ドッカーファイル
 Drools	ドゥルールズ
 Dynamic	ダイナミック
 EAP	イーエイピー
 EFK	イーエフケー
+EKS	イーケーエス
 EUS	イーユーエス
 Enterprise	エンタープライズ
 Envoy	エンボイ
@@ -60,10 +66,12 @@ Excel	エクセル
 Foundation	ファウンデーション
 Fuse	ヒューズ
 GA	ジーエー
+GKE	ジーケーイー
 GUI	ジーユーアイ
 GitOps	ギットオプス
 HA	エッチエー
 HAProxy	エイチエープロキシ
+HIPAA	ヒッパ
 Hat	ハット
 Hotfix	ホットフィックス
 IBM	アイビーエム
@@ -90,6 +98,7 @@ Manager	マネージャー
 Mode	モード
 Monitoring	モニタリング
 NFS	エヌエフエス
+NIST	ニスト
 Netscape	ネットスケープ
 NewRelic	ニューレリック
 Node.js	ノード・ジェイエス
@@ -113,6 +122,7 @@ Optimization	オプティマイゼーション
 Oracle	オラクル
 OracleJDK	オラクルジェイディーケー
 Outposts	アウトポスツ
+PCI-DSS	ピーシーアイディーエスエス
 PV	ピーブイ
 PaaS	パーズ
 Persistent	パーシステント
@@ -127,6 +137,7 @@ Quay	クエイ
 RBAC	アールバック
 RDBMS	アールディービーエムエス
 REST	レスト
+RHACS	アールエッチエーシーエス
 RHDM	アールエッチディーエム
 RHEL	レル
 RHEL10	レルテン
@@ -154,6 +165,7 @@ SIer	エスアイアー
 SLA	エスエルエー
 SMTP	エスエムティーピー
 SNMP	エスエヌエムピー
+SP800-190	エスピーハッピャクヒャクキュウジュウ
 SRE	エスアールイー
 SaaS	サーズ
 Server	サーバー

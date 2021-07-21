@@ -62,9 +62,11 @@ EAP	イーエイピー
 EFK	イーエフケー
 EKS	イーケーエス
 EUS	イーユーエス
+Enablement	イネーブルメント
 Enterprise	エンタープライズ
 Envoy	エンボイ
 Excel	エクセル
+FFmpeg	エフエフエムペグ
 Foundation	ファウンデーション
 Fuse	ヒューズ
 GA	ジーエー
@@ -213,10 +215,12 @@ eus	イーユーエス
 exida	エクシーダ
 glusterfs	グラスターエフエス
 ha	エッチエー
+hat	ハット
 hotfix	ホットフィックス
 keepalived	キープアライブド
 keycloak	キークローク
 kubernetes	クバネティス
+lexicon2dic	レキシコンツーディック
 metal	メタル
 nginx	エンジンエックス
 openshift	オープンシフト
@@ -226,9 +230,11 @@ party	パーティー
 passwd	パスワード
 qe	キューイー
 rbac	アールバック
+red	レッド
 rpm-ostree	アールピーエムオーエスツリー
 serverless	サーバレス
 sla	エスエルエー
+slide2mp4	スライドツーエムピーフォー
 syslog	シスログ
 terraform	テラフォーム
 tomcat	トムキャット
@@ -243,4 +249,5 @@ x86_64	エックスハチロクロクヨン
 赤色	あかいろ
 立役者	たてやくしゃ
 ドライブ間	ドライブカン
+空ファイル	カラファイル
 お使いの方	おつかいのかた

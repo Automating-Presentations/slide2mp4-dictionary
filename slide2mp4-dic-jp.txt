@@ -9,6 +9,7 @@ AAJ	エーエージェイ
 ABI	エービーアイ
 ACL	エーシーエル
 AGL	エージーエル
+AI	エーアイ
 AI/ML	エーアイエムエル
 AIOps	エーアイオプス
 AKS	エーケーエス
@@ -21,6 +22,7 @@ Analysis	アナリシス
 Ansible	アンシブル
 Apache	アパッチェ
 Application	アプリケーション
+Argo	アルゴ
 Automation	オートメーション
 BYOS	ビーワイオーエス
 Bare	ベア
@@ -48,6 +50,7 @@ Dashboard	ダッシュボード
 Data	データ
 DataDog	データドック
 DataGrid	データグリッド
+DataOps	データオプス
 Day	デイ
 Decision	デシジョン
 DevOps	デブオプス
@@ -78,10 +81,13 @@ HAProxy	エイチエープロキシ
 HIPAA	ヒッパ
 Hat	ハット
 Hotfix	ホットフィックス
+Hub	ハブ
 IBM	アイビーエム
+ISV	アイエスブイ
 ITSM	アイティーエスエム
 IaaS	イァース
 Infra	インフラ
+Innovation	イノベーション
 Insights	インサイツ
 Integration	インテグレーション
 Istio	イスティオ
@@ -90,15 +96,20 @@ JDK	ジェイディーケー
 JVM	ジェーブイエム
 Java	ジャバ
 Journey	ジャーニー
+Jupyter	ジュピター
 Kafka	カフカ
 Keepalived	キープアライブド
 Keycloak	キークローク
 Knative	ケイネイティブ
 Kubernetes	クバネティス
+Labs	ラボ
 Language	ランゲージ
 Linux	リナックス
 Logging	ロギング
 ML	メーリングリスト
+MLOps	エムエルオプス
+MOC	エムオーシー
+MRI	エムアールアイ
 Maistra	マイストラ
 Manager	マネージャー
 Mode	モード
@@ -108,6 +119,7 @@ NIST	ニスト
 Netscape	ネットスケープ
 NewRelic	ニューレリック
 Node.js	ノード・ジェイエス
+Notebook	ノートブック
 OCP	オーシーピー
 OCS	オーシーエス
 ODF	オーディーエフ
@@ -117,6 +129,7 @@ OSD	オーエスディー
 OSS	オーエスエス
 OTA	オーティーエー
 Object	オブジェクト
+Open	オープン
 OpenJDK	オープンジェイディーケー
 OpenSCAP	オープンスキャップ
 OpenShift	オープンシフト
@@ -174,10 +187,12 @@ SNMP	エスエヌエムピー
 SP800-190	エスピーハッピャクヒャクキュウジュウ
 SRE	エスアールイー
 SaaS	サーズ
+Seldon	セルダン
 Server	サーバー
 Serverless	サーバレス
 ServiceNow	サービスナウ
 Snapshot	スナップショット
+Spark	スパーク
 StackRox	スタックロックス
 Storage	ストレージ
 Streams	ストリームズ
@@ -192,6 +207,7 @@ UBI	ユービーアイ
 VPN	ブイピーエヌ
 Virtualization	バーチャライゼーション
 Volume	ボリューム
+WHO	ダブリュエッチオー
 Web	ウェブ
 WebLogic	ウェブロジック
 WebSphere	ウェブスフィアー

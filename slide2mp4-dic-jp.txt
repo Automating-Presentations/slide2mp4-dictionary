@@ -109,7 +109,6 @@ Keepalived	キープアライブド
 Keycloak	キークローク
 Knative	ケイネイティブ
 Kubernetes	クバネティス
-Kubernetes	クーバネテス
 Labs	ラボ
 Language	ランゲージ
 Linux	リナックス
@@ -142,7 +141,6 @@ Object	オブジェクト
 Open	オープン
 OpenID	オープンアイディー
 OpenJDK	オープンジェイディーケー
-OpenJDK	オープンジェーディーケー
 OpenSCAP	オープンスキャップ
 OpenShift	オープンシフト
 OpenStack	オープンスタック
@@ -211,7 +209,6 @@ Spark	スパーク
 StackRox	スタックロックス
 Storage	ストレージ
 Streams	ストリームス
-Streams	ストリームズ
 Strimzi	ストリムジー
 Supermicro	スーパーマイクロ
 SystemWalker	システムウォーカー

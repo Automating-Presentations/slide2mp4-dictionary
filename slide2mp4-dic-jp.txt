@@ -250,7 +250,7 @@ iPaaS	アイパース
 keepalived	キープアライブド
 keycloak	キークローク
 kubernetes	クバネティス
-lexicon2dic	レキシコンツーディック
+lexicon2dic	レキシコンツーディーアイシー
 metal	メタル
 nginx	エンジンエックス
 openshift	オープンシフト

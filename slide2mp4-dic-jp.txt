@@ -232,7 +232,7 @@ Zookeeper	ズーキーパー
 a	ア
 abi	エービーアイ
 ansible	アンシブル
-apache	アパッチェ
+apache	アパッチ
 as	アズ
 aus	エーユーエス
 bugzilla	バグジラ

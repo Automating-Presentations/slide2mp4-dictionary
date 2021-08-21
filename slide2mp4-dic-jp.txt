@@ -14,13 +14,15 @@ AI/ML	エーアイエムエル
 AIOps	エーアイオプス
 AKS	エーケーエス
 AMQ	エーエムキュー
+AMQP	エーエムキューピー
 API	エーピーアイ
 AUS	エーユーエス
 Access	アクセス
+ActiveMQ	アクティブエムキュー
 Adoption	アダプション
 Analysis	アナリシス
 Ansible	アンシブル
-Apache	アパッチェ
+Apache	アパッチ
 Application	アプリケーション
 Argo	アルゴ
 Automation	オートメーション
@@ -63,7 +65,9 @@ Drools	ドゥルールズ
 Dynamic	ダイナミック
 EAP	イーエイピー
 EFK	イーエフケー
+EIP	イーアイピー
 EKS	イーケーエス
+ESB	イーエスビー
 EUS	イーユーエス
 Enablement	イネーブルメント
 Enterprise	エンタープライズ
@@ -79,6 +83,7 @@ GitOps	ギットオプス
 HA	エッチエー
 HAProxy	エイチエープロキシ
 HIPAA	ヒッパ
+HW	ハードウェア
 Hat	ハット
 Hotfix	ホットフィックス
 Hub	ハブ
@@ -90,6 +95,7 @@ Infra	インフラ
 Innovation	イノベーション
 Insights	インサイツ
 Integration	インテグレーション
+IoT	アイオーティー
 Istio	イスティオ
 JBoss	ジェイボス
 JDK	ジェイディーケー
@@ -98,13 +104,16 @@ Java	ジャバ
 Journey	ジャーニー
 Jupyter	ジュピター
 Kafka	カフカ
+Karaf	カラフ
 Keepalived	キープアライブド
 Keycloak	キークローク
 Knative	ケイネイティブ
 Kubernetes	クバネティス
+Kubernetes	クーバネテス
 Labs	ラボ
 Language	ランゲージ
 Linux	リナックス
+LoB	ロブ
 Logging	ロギング
 ML	メーリングリスト
 MLOps	エムエルオプス
@@ -116,6 +125,7 @@ Mode	モード
 Monitoring	モニタリング
 NFS	エヌエフエス
 NIST	ニスト
+NW	ネットワーク
 Netscape	ネットスケープ
 NewRelic	ニューレリック
 Node.js	ノード・ジェイエス
@@ -130,7 +140,9 @@ OSS	オーエスエス
 OTA	オーティーエー
 Object	オブジェクト
 Open	オープン
+OpenID	オープンアイディー
 OpenJDK	オープンジェイディーケー
+OpenJDK	オープンジェーディーケー
 OpenSCAP	オープンスキャップ
 OpenShift	オープンシフト
 OpenStack	オープンスタック
@@ -184,6 +196,7 @@ SIer	エスアイアー
 SLA	エスエルエー
 SMTP	エスエムティーピー
 SNMP	エスエヌエムピー
+SOA	エスオーエー
 SP800-190	エスピーハッピャクヒャクキュウジュウ
 SRE	エスアールイー
 SaaS	サーズ
@@ -192,9 +205,12 @@ Server	サーバー
 Serverless	サーバレス
 ServiceNow	サービスナウ
 Snapshot	スナップショット
+SoE	エスオーイー
+SoR	エスオーアール
 Spark	スパーク
 StackRox	スタックロックス
 Storage	ストレージ
+Streams	ストリームス
 Streams	ストリームズ
 Strimzi	ストリムジー
 Supermicro	スーパーマイクロ
@@ -233,6 +249,7 @@ glusterfs	グラスターエフエス
 ha	エッチエー
 hat	ハット
 hotfix	ホットフィックス
+iPaaS	アイパース
 keepalived	キープアライブド
 keycloak	キークローク
 kubernetes	クバネティス

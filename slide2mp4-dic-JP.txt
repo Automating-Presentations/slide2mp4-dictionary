@@ -27,7 +27,7 @@ Application	アプリケーション
 Argo	アルゴ
 Automation	オートメーション
 BPM	ビーピーエム
-BPMN2.0	ビーピーエムエヌニーテンゼロ
+BPMN	ビーピーエムエヌ
 BPR	ビーピーアール
 BYOS	ビーワイオーエス
 Bare	ベア

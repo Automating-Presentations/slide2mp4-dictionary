@@ -26,6 +26,9 @@ Apache	アパッチ
 Application	アプリケーション
 Argo	アルゴ
 Automation	オートメーション
+BPM	ビーピーエム
+BPMN2.0	ビーピーエムエヌニーテンゼロ
+BPR	ビーピーアール
 BYOS	ビーワイオーエス
 Bare	ベア
 Bookinfo	ブックインフォ
@@ -46,6 +49,7 @@ Container	コンテナ
 CoreOS	コアオーエス
 Corosync	コロシンク
 DB	データベース
+DMN	ディーエムエヌ
 DRL	ディーアールエル
 DX	ディーエックス
 Dashboard	ダッシュボード
@@ -88,6 +92,7 @@ Hat	ハット
 Hotfix	ホットフィックス
 Hub	ハブ
 IBM	アイビーエム
+IDE	アイディーイー
 ISV	アイエスブイ
 ITSM	アイティーエスエム
 IaaS	イァース
@@ -151,6 +156,7 @@ Optimization	オプティマイゼーション
 Oracle	オラクル
 OracleJDK	オラクルジェイディーケー
 Outposts	アウトポスツ
+PAM	パム
 PCI-DSS	ピーシーアイディーエスエス
 PV	ピーブイ
 PaaS	パーズ
@@ -218,6 +224,7 @@ Terraform	テラフォーム
 Trap	トラップ
 UBI	ユービーアイ
 VPN	ブイピーエヌ
+VSCode	ブイエスコード
 Virtualization	バーチャライゼーション
 Volume	ボリューム
 WHO	ダブリュエッチオー
@@ -247,6 +254,7 @@ ha	エッチエー
 hat	ハット
 hotfix	ホットフィックス
 iPaaS	アイパース
+jBPM	ジェイビーピーエム
 keepalived	キープアライブド
 keycloak	キークローク
 kubernetes	クバネティス

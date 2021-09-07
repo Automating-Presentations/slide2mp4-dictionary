@@ -235,6 +235,7 @@ WebSphere	ウェブスフィアー
 Worker	ワーカー
 Workspaces	ワークスペース
 XML	エックスエムエル
+YAML	ヤムル
 Zabbix	ザビックス
 Zookeeper	ズーキーパー
 a	ア

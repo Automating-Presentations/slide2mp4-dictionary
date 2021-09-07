@@ -208,6 +208,7 @@ Seldon	セルダン
 Server	サーバー
 Serverless	サーバレス
 ServiceNow	サービスナウ
+Sidecar	サイドカー
 Snapshot	スナップショット
 SoE	エスオーイー
 SoR	エスオーアール

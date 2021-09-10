@@ -253,6 +253,7 @@ corosync	コロシンク
 cron	クーロン
 eus	イーユーエス
 exida	エクシーダ
+fork	フォーク
 glusterfs	グラスターエフエス
 ha	エッチエー
 hat	ハット

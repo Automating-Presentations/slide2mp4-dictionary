@@ -148,7 +148,7 @@ Object	オブジェクト
 Open	オープン
 OpenID	オープンアイディー
 OpenJDK	オープンジェイディーケー
-OpenSCAP	オープンスキャップ
+OpenSCAP	オープンエスキャップ
 OpenShift	オープンシフト
 OpenStack	オープンスタック
 Operator	オペレータ

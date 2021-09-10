@@ -167,6 +167,7 @@ Platform	プラットフォーム
 PoC	ピーオーシー
 Pod	ポッド
 Preview	プレビュー
+Proactive	プロアクティブ
 Process	プロセス
 Provisioning	プロビジョニング
 QE	キューイー

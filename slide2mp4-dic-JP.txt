@@ -35,6 +35,9 @@ Bookinfo	ブックインフォ
 Bucket	バケット
 Bugzilla	バグジラ
 Business	ビジネス
+CCSP	シーシーエスピー
+CDN	シーディーエヌ
+CDS	シーディーエス
 CEP	セップ
 CI/CD	シーアイシーディ
 CNI	シーエヌアイ
@@ -183,6 +186,7 @@ RHEL6	レルシックス
 RHEL7	レルセブン
 RHEL8	レルエイト
 RHEL9	レルナイン
+RHGS	アールエッチジーエス
 RHUA	ルア
 RHUI	ルイ
 ROI	アールオーアイ

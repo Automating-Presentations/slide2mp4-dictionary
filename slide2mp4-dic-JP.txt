@@ -49,6 +49,7 @@ CoE	シーオーイー
 Code	コード
 CodeReady	コードレディ
 Compliance	コンプライアンス
+Connect	コネクト
 Container	コンテナ
 CoreOS	コアオーエス
 Corosync	コロシンク
@@ -109,8 +110,10 @@ IoT	アイオーティー
 Istio	イスティオ
 JBoss	ジェイボス
 JDK	ジェイディーケー
+JRE	ジェイアールイー
 JVM	ジェーブイエム
 Java	ジャバ
+JavaEE	ジャバイーイー
 Journey	ジャーニー
 Jupyter	ジュピター
 Kafka	カフカ
@@ -119,6 +122,7 @@ Keepalived	キープアライブド
 Keycloak	キークローク
 Knative	ケイネイティブ
 Kubernetes	クバネティス
+LDAP	エルダップ
 Labs	ラボ
 Language	ランゲージ
 Linux	リナックス
@@ -130,6 +134,8 @@ MOC	エムオーシー
 MRI	エムアールアイ
 Maistra	マイストラ
 Manager	マネージャー
+MicroProfile	マイクロプロファイル
+Migration	マイグレーション
 Mode	モード
 Monitoring	モニタリング
 NFS	エヌエフエス
@@ -137,8 +143,10 @@ NIST	ニスト
 NW	ネットワーク
 Netscape	ネットスケープ
 NewRelic	ニューレリック
-Node.js	ノード・ジェイエス
+NoSQL	ノーエスキューエル
+Node.js	ノードジェイエス
 Notebook	ノートブック
+OAuth	オーオース
 OCP	オーシーピー
 OCS	オーシーエス
 ODF	オーディーエフ
@@ -174,11 +182,15 @@ Proactive	プロアクティブ
 Process	プロセス
 Provisioning	プロビジョニング
 QE	キューイー
+Quarkus	クォーカス
 Quay	クエイ
 RBAC	アールバック
 RDBMS	アールディービーエムエス
 REST	レスト
+RH-SSO	アールエッチエスエスオー
 RHACS	アールエッチエーシーエス
+RHAMT	アールエッチエーエムティー
+RHDG	アールエッチディージー
 RHDM	アールエッチディーエム
 RHEL	レル
 RHEL10	レルテン
@@ -199,6 +211,7 @@ Registry	レジストリ
 Root	ルート
 Rule	ルール
 S/4	エスフォー
+SAML	サムル
 SAP	エスエーピー
 SDS	エスディーエス
 SELinux	エスイーリナックス
@@ -215,7 +228,10 @@ Seldon	セルダン
 Server	サーバー
 Serverless	サーバレス
 ServiceNow	サービスナウ
+Services	サービシーズ
 Sidecar	サイドカー
+Sign	サイン
+Single	シングル
 Snapshot	スナップショット
 SoE	エスオーイー
 SoR	エスオーアール
@@ -229,8 +245,10 @@ SystemWalker	システムウォーカー
 Technology	テクノロジー
 Tensorflow	テンサーフロー
 Terraform	テラフォーム
+Tomcat	トムキャット
 Trap	トラップ
 UBI	ユービーアイ
+VERT.X	バートエックス
 VPN	ブイピーエヌ
 VSCode	ブイエスコード
 Virtualization	バーチャライゼーション

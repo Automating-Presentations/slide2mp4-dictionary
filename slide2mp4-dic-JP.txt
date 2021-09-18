@@ -42,6 +42,7 @@ CDS	シーディーエス
 CEP	セップ
 CI/CD	シーアイシーディ
 CNI	シーエヌアイ
+COVID-19	コビッドナインティーン
 CVE	シーブイイー
 Cause	コーズ
 CentOS	セントオーエス
@@ -117,6 +118,7 @@ Java	ジャバ
 JavaEE	ジャバイーイー
 Journey	ジャーニー
 Jupyter	ジュピター
+JupyterHub	ジュピターハブ
 Kafka	カフカ
 Karaf	カラフ
 Keepalived	キープアライブド
@@ -132,6 +134,7 @@ Locale	ロケール
 Logging	ロギング
 ML	メーリングリスト
 MLOps	エムエルオプス
+MLモデル	エムエルモデル
 MOC	エムオーシー
 MRI	エムアールアイ
 Maistra	マイストラ

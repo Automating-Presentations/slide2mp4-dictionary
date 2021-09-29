@@ -13,6 +13,7 @@ AI	エーアイ
 AI/ML	エーアイエムエル
 AIOps	エーアイオプス
 AKS	エーケーエス
+AMM	エーエムエム
 AMQ	エーエムキュー
 AMQP	エーエムキューピー
 API	エーピーアイ
@@ -32,6 +33,7 @@ BPMN	ビーピーエムエヌ
 BPR	ビーピーアール
 BYOS	ビーワイオーエス
 Bare	ベア
+Based	ベースド
 Bookinfo	ブックインフォ
 Bucket	バケット
 Bugzilla	バグジラ
@@ -70,6 +72,7 @@ DevOps	デブオプス
 DevSecOps	デブセクオプス
 DevSecOps	デブセックオプス
 Devfile	デブファイル
+Digital	デジタル
 Docker	ドッカー
 Dockerfile	ドッカーファイル
 Drools	ドゥルールズ
@@ -232,6 +235,7 @@ SaaS	サーズ
 Seldon	セルダン
 Server	サーバー
 Serverless	サーバレス
+Service	サービス
 ServiceNow	サービスナウ
 Services	サービシーズ
 Sidecar	サイドカー
@@ -251,11 +255,13 @@ Technology	テクノロジー
 Tensorflow	テンサーフロー
 Terraform	テラフォーム
 Tomcat	トムキャット
+Transformation	トランスフォーメーション
 Trap	トラップ
 UBI	ユービーアイ
 VERT.X	バートエックス
 VPN	ブイピーエヌ
 VSCode	ブイエスコード
+VUCA	ブーカ
 Virtualization	バーチャライゼーション
 Volume	ボリューム
 WHO	ダブリュエッチオー

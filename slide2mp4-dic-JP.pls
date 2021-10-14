@@ -1652,6 +1652,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>可搬性</grapheme>
+    <alias>かはんせい</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>同期的</grapheme>
     <alias>どうきてき</alias>
   </lexeme>

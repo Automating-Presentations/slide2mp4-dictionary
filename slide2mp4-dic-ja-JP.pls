@@ -257,6 +257,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>Cluster</grapheme>
+    <alias>クラスター</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>CoE</grapheme>
     <alias>シーオーイー</alias>
   </lexeme>

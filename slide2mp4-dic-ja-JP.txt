@@ -49,6 +49,7 @@ CVE	シーブイイー
 Cause	コーズ
 CentOS	セントオーエス
 Ceph	セフ
+Cluster	クラスター
 CoE	シーオーイー
 Code	コード
 CodeReady	コードレディ

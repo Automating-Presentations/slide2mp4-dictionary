@@ -817,6 +817,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>OMPP</grapheme>
+    <alias>オーエムピーピー</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>OS</grapheme>
     <alias>オーエス</alias>
   </lexeme>
@@ -1694,6 +1699,11 @@
   <lexeme>
     <grapheme>立役者</grapheme>
     <alias>たてやくしゃ</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>数十分</grapheme>
+    <alias>すうじゅっぷん</alias>
   </lexeme>
 
   <lexeme>

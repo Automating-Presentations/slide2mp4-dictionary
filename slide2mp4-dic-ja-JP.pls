@@ -1322,6 +1322,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>VPC</grapheme>
+    <alias>ブイピーシー</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>VPN</grapheme>
     <alias>ブイピーエヌ</alias>
   </lexeme>
@@ -1644,6 +1649,11 @@
   <lexeme>
     <grapheme>一人</grapheme>
     <alias>ひとり</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>日次</grapheme>
+    <alias>にちじ</alias>
   </lexeme>
 
   <lexeme>

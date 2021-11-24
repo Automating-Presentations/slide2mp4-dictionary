@@ -266,6 +266,7 @@ VPC	ブイピーシー
 VPN	ブイピーエヌ
 VSCode	ブイエスコード
 VUCA	ブーカ
+Velero	べレロ
 Virtualization	バーチャライゼーション
 Volume	ボリューム
 WHO	ダブリュエッチオー

@@ -1342,6 +1342,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>Velero</grapheme>
+    <alias>べレロ</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>Virtualization</grapheme>
     <alias>バーチャライゼーション</alias>
   </lexeme>

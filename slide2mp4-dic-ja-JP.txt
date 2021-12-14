@@ -17,11 +17,13 @@ AMM	エーエムエム
 AMQ	エーエムキュー
 AMQP	エーエムキューピー
 API	エーピーアイ
+ATDD	アクセプタンスティーディーディー
 AUS	エーユーエス
 Access	アクセス
 ActiveMQ	アクティブエムキュー
 Add-On	アドオン
 Adoption	アダプション
+Agile	アジャイル
 Analysis	アナリシス
 Ansible	アンシブル
 Apache	アパッチ
@@ -34,6 +36,7 @@ BPR	ビーピーアール
 BYOS	ビーワイオーエス
 Bare	ベア
 Based	ベースド
+Biz	ビズ
 Bookinfo	ブックインフォ
 Bucket	バケット
 Bugzilla	バグジラ
@@ -43,7 +46,7 @@ CDN	シーディーエヌ
 CDS	シーディーエス
 CEP	セップ
 CI	シーアイ
-CI/CD	シーアイシーディ
+CI/CD	シーアイシーディー
 CNI	シーエヌアイ
 COVID-19	コビッドナインティーン
 CVE	シーブイイー
@@ -89,6 +92,7 @@ Ecosystem	エコシステム
 Enablement	イネーブルメント
 Enterprise	エンタープライズ
 Envoy	エンボイ
+Essential	エッセンシャル
 Excel	エクセル
 Extract	エクストラクト
 FFmpeg	エフエフエムペグ
@@ -185,6 +189,7 @@ OracleJDK	オラクルジェイディーケー
 Outposts	アウトポスツ
 PAM	パム
 PCI-DSS	ピーシーアイディーエスエス
+PO	ピーオー
 PV	ピーブイ
 PaaS	パーズ
 Persistent	パーシステント
@@ -257,6 +262,7 @@ Streams	ストリームス
 Strimzi	ストリムジー
 Supermicro	スーパーマイクロ
 SystemWalker	システムウォーカー
+TDD	ティーディーディー
 Technology	テクノロジー
 Tensorflow	テンサーフロー
 Terraform	テラフォーム

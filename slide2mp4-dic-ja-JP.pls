@@ -97,6 +97,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>ATDD</grapheme>
+    <alias>アクセプタンスティーディーディー</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>AUS</grapheme>
     <alias>エーユーエス</alias>
   </lexeme>
@@ -119,6 +124,11 @@
   <lexeme>
     <grapheme>Adoption</grapheme>
     <alias>アダプション</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Agile</grapheme>
+    <alias>アジャイル</alias>
   </lexeme>
 
   <lexeme>
@@ -182,6 +192,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>Biz</grapheme>
+    <alias>ビズ</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>Bookinfo</grapheme>
     <alias>ブックインフォ</alias>
   </lexeme>
@@ -228,7 +243,7 @@
 
   <lexeme>
     <grapheme>CI/CD</grapheme>
-    <alias>シーアイシーディ</alias>
+    <alias>シーアイシーディー</alias>
   </lexeme>
 
   <lexeme>
@@ -454,6 +469,11 @@
   <lexeme>
     <grapheme>Envoy</grapheme>
     <alias>エンボイ</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Essential</grapheme>
+    <alias>エッセンシャル</alias>
   </lexeme>
 
   <lexeme>
@@ -937,6 +957,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>PO</grapheme>
+    <alias>ピーオー</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>PV</grapheme>
     <alias>ピーブイ</alias>
   </lexeme>
@@ -1294,6 +1319,11 @@
   <lexeme>
     <grapheme>SystemWalker</grapheme>
     <alias>システムウォーカー</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>TDD</grapheme>
+    <alias>ティーディーディー</alias>
   </lexeme>
 
   <lexeme>

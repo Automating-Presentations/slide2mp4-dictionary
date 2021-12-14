@@ -42,6 +42,7 @@ CCSP	シーシーエスピー
 CDN	シーディーエヌ
 CDS	シーディーエス
 CEP	セップ
+CI	シーアイ
 CI/CD	シーアイシーディ
 CNI	シーエヌアイ
 COVID-19	コビッドナインティーン
@@ -91,6 +92,7 @@ Envoy	エンボイ
 Excel	エクセル
 Extract	エクストラクト
 FFmpeg	エフエフエムペグ
+FW	ファイアウォール
 Foundation	ファウンデーション
 Fuse	ヒューズ
 GA	ジーエー
@@ -130,6 +132,7 @@ Keepalived	キープアライブド
 Keycloak	キークローク
 Knative	ケイネイティブ
 Kubernetes	クバネティス
+LB	ロードバランサー
 LDAP	エルダップ
 Labs	ラボ
 Language	ランゲージ
@@ -262,6 +265,7 @@ Transformation	トランスフォーメーション
 Trap	トラップ
 UBI	ユービーアイ
 VERT.X	バートエックス
+VM	バーチャルマシン
 VPC	ブイピーシー
 VPN	ブイピーエヌ
 VSCode	ブイエスコード
@@ -297,6 +301,7 @@ glusterfs	グラスターエフエス
 ha	エッチエー
 hat	ハット
 hotfix	ホットフィックス
+httpd	エイチティーティーピーディー
 iPaaS	アイパース
 jBPM	ジェイビーピーエム
 json	ジェイソン

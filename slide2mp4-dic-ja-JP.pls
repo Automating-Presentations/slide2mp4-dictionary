@@ -222,6 +222,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>CI</grapheme>
+    <alias>シーアイ</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>CI/CD</grapheme>
     <alias>シーアイシーディ</alias>
   </lexeme>
@@ -467,6 +472,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>FW</grapheme>
+    <alias>ファイアウォール</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>Foundation</grapheme>
     <alias>ファウンデーション</alias>
   </lexeme>
@@ -659,6 +669,11 @@
   <lexeme>
     <grapheme>Kubernetes</grapheme>
     <alias>クバネティス</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>LB</grapheme>
+    <alias>ロードバランサー</alias>
   </lexeme>
 
   <lexeme>
@@ -1322,6 +1337,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>VM</grapheme>
+    <alias>バーチャルマシン</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>VPC</grapheme>
     <alias>ブイピーシー</alias>
   </lexeme>
@@ -1494,6 +1514,11 @@
   <lexeme>
     <grapheme>hotfix</grapheme>
     <alias>ホットフィックス</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>httpd</grapheme>
+    <alias>エイチティーティーピーディー</alias>
   </lexeme>
 
   <lexeme>

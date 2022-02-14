@@ -1527,6 +1527,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>git.centos.org</grapheme>
+    <alias>ギットドットセントオーエスドットオルグ</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>glusterfs</grapheme>
     <alias>グラスターエフエス</alias>
   </lexeme>

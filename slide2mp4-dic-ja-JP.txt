@@ -303,6 +303,7 @@ cron	クーロン
 eus	イーユーエス
 exida	エクシーダ
 fork	フォーク
+git.centos.org	ギットドットセントオーエスドットオルグ
 glusterfs	グラスターエフエス
 ha	エッチエー
 hat	ハット

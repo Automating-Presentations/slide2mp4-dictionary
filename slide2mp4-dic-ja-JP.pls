@@ -383,11 +383,6 @@
 
   <lexeme>
     <grapheme>DevSecOps</grapheme>
-    <alias>デブセクオプス</alias>
-  </lexeme>
-
-  <lexeme>
-    <grapheme>DevSecOps</grapheme>
     <alias>デブセックオプス</alias>
   </lexeme>
 

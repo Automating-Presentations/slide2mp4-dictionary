@@ -74,7 +74,6 @@ DataOps	データオプス
 Day	デイ
 Decision	デシジョン
 DevOps	デブオプス
-DevSecOps	デブセクオプス
 DevSecOps	デブセックオプス
 Devfile	デブファイル
 Digital	デジタル

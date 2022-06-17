@@ -377,6 +377,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>Dedicated</grapheme>
+    <alias>デディケイティッド</alias>
+  </lexeme>
+ 
+ <lexeme>
     <grapheme>DevOps</grapheme>
     <alias>デブオプス</alias>
   </lexeme>
@@ -1049,6 +1054,11 @@
   <lexeme>
     <grapheme>RHAMT</grapheme>
     <alias>アールエッチエーエムティー</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>RHCOS</grapheme>
+    <alias>アールエッチシーオーエス</alias>
   </lexeme>
 
   <lexeme>

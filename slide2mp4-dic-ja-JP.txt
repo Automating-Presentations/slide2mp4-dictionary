@@ -73,6 +73,7 @@ DataGrid	データグリッド
 DataOps	データオプス
 Day	デイ
 Decision	デシジョン
+Dedicated	デディケイティッド
 DevOps	デブオプス
 DevSecOps	デブセックオプス
 Devfile	デブファイル
@@ -208,6 +209,7 @@ REST	レスト
 RH-SSO	アールエッチエスエスオー
 RHACS	アールエッチエーシーエス
 RHAMT	アールエッチエーエムティー
+RHCOS	アールエッチシーオーエス
 RHDG	アールエッチディージー
 RHDM	アールエッチディーエム
 RHEL	レル

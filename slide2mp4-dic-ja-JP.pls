@@ -380,8 +380,8 @@
     <grapheme>Dedicated</grapheme>
     <alias>デディケイティッド</alias>
   </lexeme>
- 
- <lexeme>
+
+  <lexeme>
     <grapheme>DevOps</grapheme>
     <alias>デブオプス</alias>
   </lexeme>

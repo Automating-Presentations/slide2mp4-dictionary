@@ -36,6 +36,7 @@ BPR	ビーピーアール
 BYOS	ビーワイオーエス
 Bare	ベア
 Based	ベースド
+Bastion	バスチャン
 Biz	ビズ
 Bookinfo	ブックインフォ
 Bucket	バケット

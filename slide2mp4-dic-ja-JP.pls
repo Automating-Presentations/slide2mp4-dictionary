@@ -192,6 +192,11 @@
   </lexeme>
 
   <lexeme>
+    <grapheme>Bastion</grapheme>
+    <alias>バスチャン</alias>
+  </lexeme>
+
+  <lexeme>
     <grapheme>Biz</grapheme>
     <alias>ビズ</alias>
   </lexeme>

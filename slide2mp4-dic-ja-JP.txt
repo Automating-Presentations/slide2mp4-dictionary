@@ -81,6 +81,7 @@ Devfile	デブファイル
 Digital	デジタル
 Docker	ドッカー
 Dockerfile	ドッカーファイル
+DocuSign	ドキュサイン
 Drools	ドゥルールズ
 Dynamic	ダイナミック
 EAP	イーエイピー

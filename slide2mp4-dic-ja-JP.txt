@@ -14,6 +14,7 @@ AI/ML	エーアイエムエル
 AIOps	エーアイオプス
 AKS	エーケーエス
 AMM	エーエムエム
+AMP	エーエムピー
 AMQ	エーエムキュー
 AMQP	エーエムキューピー
 API	エーピーアイ
@@ -75,6 +76,7 @@ DataOps	データオプス
 Day	デイ
 Decision	デシジョン
 Dedicated	デディケイティッド
+Dev	デブ
 DevOps	デブオプス
 DevSecOps	デブセックオプス
 Devfile	デブファイル
@@ -110,6 +112,7 @@ HAProxy	エイチエープロキシ
 HIPAA	ヒッパ
 HW	ハードウェア
 Hat	ハット
+Hosted	ホステッド
 Hotfix	ホットフィックス
 Hub	ハブ
 IBM	アイビーエム
@@ -231,8 +234,10 @@ RWX(ReadWriteMany)	リードライトメニー
 Red	レッド
 Registry	レジストリ
 Root	ルート
+Route53	ルートフィフティスリー
 Rule	ルール
 S/4	エスフォー
+S2I	エスツーアイ
 SAML	サムル
 SAP	エスエーピー
 SDS	エスディーエス
